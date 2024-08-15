@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="<iframe src="https://giphy.com/embed/1jXAh9RJME0LZoBFRp" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stars-pleiades-serpentspells-1jXAh9RJME0LZoBFRp">via GIPHY</a></p>"  />
+  <img height="150" src="https://media.giphy.com/media/1jXAh9RJME0LZoBFRp/giphy.gif" alt="stars gif"/>
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="<iframe src="https://giphy.com/embed/1jXAh9RJME0LZoBFRp" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stars-pleiades-serpentspells-1jXAh9RJME0LZoBFRp">via GIPHY</a></p>"  />
+  <img height="150" src="https://media.giphy.com/media/1jXAh9RJME0LZoBFRp/giphy.gif" alt="stars gif"/>
 </div>
 
 ###
