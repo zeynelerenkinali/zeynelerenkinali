@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 I’m Computer Engineering Student at Erzurum Technical University<br>- 📚 I'm currently learning ROS <br>- ⚡ In my free time, I love reading and playing sports</p>
+<p align="left">I'm Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 I’m Computer Engineering Student at Erzurum Technical University<br>- 📚 I'm currently learning ROS <br>- ⚡ In my free time, I love reading and doing sports</p>
 
 ###
 
