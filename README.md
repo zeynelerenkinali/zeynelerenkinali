@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">This is my Github 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 I’m Computer Engineering Student at Erzurum Technical University<br>- 📚 I'm currently learning UAV Automation and Simulation <br>- ⚡ In my free time, I enjoy reading and staying active through sports</p>
+<p align="left">I'm Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 I’m Computer Engineering Student at Erzurum Technical University<br>- 📚 I'm currently working on UAV Automation and Simulation <br>- ⚡ In my free time, I enjoy reading and staying active through sports</p>
 
 ###
 
