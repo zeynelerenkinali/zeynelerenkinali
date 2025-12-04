@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://tenor.com/view/bayraktar-selçuk-bayraktar-recep-tayyşp-edoğan-berat-albaytrak-cumhur-başkanı-gif-21704663" alt="stars gif"/>
+  <img height="200" src="" alt="stars gif"/>
 </div>
 
 ###
