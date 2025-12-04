@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 I’m Computer Engineering Student at Erzurum Technical University<br>- 📚 I'm currently working on UAV Automation and Simulation <br>- ⚡ In my free time, I enjoy reading and staying active through sports</p>
+<p align="left"> Zeynel Eren Kınalı from Türkiye<br><br>- 🔭 Computer Engineering Student at Erzurum Technical University<br>- 📚 Currently working on UAV Automation and Simulation <br>- ⚡ In my free time, I enjoy reading and staying active through sports</p>
 
 ###
 
