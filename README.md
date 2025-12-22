@@ -1,91 +1,95 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeynel%20Eren%20Kınalı&fontSize=50" alt="header" />
-</div>
+# Zeynel Eren Kınalı
 
-###
+## Robotics & Autonomous Systems Engineer (Student)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/zeynelerenk%C4%B1nal%C4%B1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.youtube.com/@zeynelerenkinali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
-  </a>
-  <a href="mailto:zeynelerenkinali@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-</div>
+Computer Engineering student with a strong focus on **robotics, UAV systems, and autonomous mission design**.  
+Experienced in developing **end-to-end autonomous systems**, from simulation and algorithm design to embedded deployment on real robotic platforms. My work primarily targets **search & rescue, navigation, perception, and mission autonomy** for aerial and ground robots.
 
-###
+---
 
-<h1 align="center"> Hi there 👋</h1>
+## Technical Focus Areas
 
-###
+- Autonomous UAV systems (fixed-wing & multirotor)
+- Robotics simulation and mission testing
+- Perception-driven autonomy (vision & sensor fusion)
+- Embedded computing for robotics (NVIDIA Jetson, microcontrollers)
+- Control systems and navigation algorithms
 
-<h3 align="left">➡️  About Me</h3>
+---
 
-###
+## Core Technical Skills
 
-<p align="left"> I'm Zeynel Eren Kınalı from Türkiye.<br><br>
-- 🔭 <b>Computer Engineering Student</b> at Erzurum Technical University<br>
-- 🚀 Passionate about <b>Embedded Systems, UAV Technologies, and Full Stack Development</b><br>
-- 🤖 Currently working on <b>UAV Automation, Simulation</b> and <b>NVIDIA Jetson</b> platforms<br>
-- ⚡ In my free time, I enjoy reading and staying active through sports
-</p>
+**Robotics & Autonomy**
+- ROS / ROS2 (nodes, navigation stack, move_base)
+- Mission-based flight planning (ArduPilot)
+- SLAM, waypoint navigation, spiral search algorithms
+- Autonomous decision-making pipelines
 
-###
+**Perception & Algorithms**
+- Human detection using YOLO + OpenCV
+- Sensor fusion (LiDAR, IR distance sensors, encoders)
+- Target localization and tracking
+- Autonomous search logic for SAR scenarios
 
-<h3 align="left">🚀 Featured Projects</h3>
+**Simulation & Testing**
+- Gazebo-based robotic simulation
+- ArduPilot SITL
+- Scenario-based validation of autonomy logic
+- Safe testing of mission behaviors before deployment
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Embedded AI & UAV Systems** | Working on autonomous systems and simulation. | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+**Embedded & Low-Level Systems**
+- NVIDIA Jetson (onboard AI inference)
+- Arduino-based low-level motor control
+- PID control for mobile robots
+- LiDAR (YDLiDAR), IR sensors, wheel encoders
 
-###
+**Programming & OS**
+- C / C++
+- Python
+- Linux
+- Git
 
-<h3 align="left">🛠 Language and Tools</h3>
+---
 
-###
+## Selected Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo" />
-  
-  <br><br>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
+### Autonomous Search and Rescue (SAR) System
+**Fixed-Wing + Multirotor UAV Architecture**
 
-###
+- Designed a two-layer SAR system combining **fixed-wing UAVs for wide-area scanning** and **multirotor UAVs for close-range intervention**.
+- Fixed-wing UAV autonomously surveys large areas using mission-based flight planning and endurance-optimized search patterns.
+- Upon human detection and operator confirmation, estimated GPS coordinates are transmitted to a multirotor UAV.
+- The multirotor UAV autonomously navigates to the target location, executes a **spiral search algorithm**, detects humans using **YOLO-based vision**, deploys emergency payloads (e.g., thermal blanket), lands nearby, and establishes **two-way audio communication**.
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### Autonomous Mobile Robot – Erasmus+ Internship
+**SLAM, Navigation & Low-Level Control**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeynelerenkinali&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+- Developed an autonomous mobile robot capable of navigating maze-like environments.
+- Initial exploration performed using IR distance sensors while simultaneously generating a map via **YDLiDAR-based SLAM**.
+- After mapping, autonomous navigation achieved using the **ROS navigation stack** with goal selection through `move_base`.
+- Implemented low-level motor control and **PID algorithms** for stable and precise motion.
+- Project completed within an international team and achieved **1st place** in the final competition.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynelerenkinali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynelerenkinali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+## Engineering Approach
+
+I approach robotics problems from a **systems perspective**, focusing on:
+- Reliability and safety in autonomous behavior
+- Clear separation between perception, decision-making, and control layers
+- Simulation-first development to reduce real-world risk
+- Practical deployment on embedded hardware
+
+---
+
+## Motivation
+
+Motivated to contribute to the development of **reliable, mission-oriented autonomous platforms** for the **Turkish defense and robotics industry**, with a strong interest in UAV autonomy, perception-driven systems, and embedded AI.
+
+---
+
+📍 Türkiye  
+📧 Contact: zeynelerenkinali@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/zeynelerenk%C4%B1nal%C4%B1/
