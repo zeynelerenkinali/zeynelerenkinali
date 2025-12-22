@@ -1,95 +1,90 @@
-# Zeynel Eren Kınalı
-
-## Robotics & Autonomous Systems Engineer (Student)
-
-Computer Engineering student with a strong focus on **robotics, UAV systems, and autonomous mission design**.  
-Experienced in developing **end-to-end autonomous systems**, from simulation and algorithm design to embedded deployment on real robotic platforms. My work primarily targets **search & rescue, navigation, perception, and mission autonomy** for aerial and ground robots.
 
 ---
+        ✈️  Zeynel Eren KINALI  ✈️
+        Autonomous Systems • UAVs • Robotics
 
-## Technical Focus Areas
-
-- Autonomous UAV systems (fixed-wing & multirotor)
-- Robotics simulation and mission testing
-- Perception-driven autonomy (vision & sensor fusion)
-- Embedded computing for robotics (NVIDIA Jetson, microcontrollers)
-- Control systems and navigation algorithms
-
----
-
-## Core Technical Skills
-
-**Robotics & Autonomy**
-- ROS / ROS2 (nodes, navigation stack, move_base)
-- Mission-based flight planning (ArduPilot)
-- SLAM, waypoint navigation, spiral search algorithms
-- Autonomous decision-making pipelines
-
-**Perception & Algorithms**
-- Human detection using YOLO + OpenCV
-- Sensor fusion (LiDAR, IR distance sensors, encoders)
-- Target localization and tracking
-- Autonomous search logic for SAR scenarios
-
-**Simulation & Testing**
-- Gazebo-based robotic simulation
-- ArduPilot SITL
-- Scenario-based validation of autonomy logic
-- Safe testing of mission behaviors before deployment
-
-**Embedded & Low-Level Systems**
-- NVIDIA Jetson (onboard AI inference)
-- Arduino-based low-level motor control
-- PID control for mobile robots
-- LiDAR (YDLiDAR), IR sensors, wheel encoders
-
-**Programming & OS**
-- C / C++
-- Python
-- Linux
-- Git
-
----
-
-## Selected Projects
-
-### Autonomous Search and Rescue (SAR) System
-**Fixed-Wing + Multirotor UAV Architecture**
-
-- Designed a two-layer SAR system combining **fixed-wing UAVs for wide-area scanning** and **multirotor UAVs for close-range intervention**.
-- Fixed-wing UAV autonomously surveys large areas using mission-based flight planning and endurance-optimized search patterns.
-- Upon human detection and operator confirmation, estimated GPS coordinates are transmitted to a multirotor UAV.
-- The multirotor UAV autonomously navigates to the target location, executes a **spiral search algorithm**, detects humans using **YOLO-based vision**, deploys emergency payloads (e.g., thermal blanket), lands nearby, and establishes **two-way audio communication**.
-
----
-
-### Autonomous Mobile Robot – Erasmus+ Internship
-**SLAM, Navigation & Low-Level Control**
-
-- Developed an autonomous mobile robot capable of navigating maze-like environments.
-- Initial exploration performed using IR distance sensors while simultaneously generating a map via **YDLiDAR-based SLAM**.
-- After mapping, autonomous navigation achieved using the **ROS navigation stack** with goal selection through `move_base`.
-- Implemented low-level motor control and **PID algorithms** for stable and precise motion.
-- Project completed within an international team and achieved **1st place** in the final competition.
-
----
-
-## Engineering Approach
-
-I approach robotics problems from a **systems perspective**, focusing on:
-- Reliability and safety in autonomous behavior
-- Clear separation between perception, decision-making, and control layers
-- Simulation-first development to reduce real-world risk
-- Practical deployment on embedded hardware
-
----
-
-## Motivation
-
-Motivated to contribute to the development of **reliable, mission-oriented autonomous platforms** for the **Turkish defense and robotics industry**, with a strong interest in UAV autonomy, perception-driven systems, and embedded AI.
-
----
-
+## 🧠 About Me
+🧑‍💻 **Computer Engineering Student**  
 📍 Türkiye  
-📧 Contact: zeynelerenkinali@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/zeynelerenk%C4%B1nal%C4%B1/
+
+I focus on **autonomous systems, UAV technologies, and robotics**, with hands-on experience spanning **simulation, perception, control, and hardware integration**.  
+My work centers on building **mission-oriented autonomous platforms**, from fixed-wing surveillance systems to multirotor SAR drones.
+
+I actively develop and test systems both in **simulation (ROS/ROS2, Gazebo, SITL)** and on **real hardware**, aiming for robust, scalable autonomy suitable for defense and search-and-rescue applications.
+
+---
+
+## 🚀 Core Expertise
+🛩️ **Autonomous UAV Systems**  
+🧭 **Path Planning & Navigation (A*, Spiral Search, move_base)**  
+🧠 **AI-Based Perception (YOLO, OpenCV)**  
+📡 **Sensor Fusion (LiDAR, IR, Encoders, GPS)**  
+⚙️ **Low-Level Control (PID, Motor Drivers)**  
+🖥️ **Embedded AI & Edge Computing (NVIDIA Jetson)**  
+
+---
+
+## 🛠️ Tech Stack
+### Robotics & Autonomy
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+### Embedded & Hardware
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+
+---
+
+## 🛩️ Featured Robotics Projects
+
+### 🔹 Autonomous Search & Rescue UAV System
+**Fixed-Wing + Multirotor Cooperative Architecture**
+
+- Fixed-wing UAV for **large-area autonomous scanning**
+- Mission-based flight planning for SAR scenarios
+- GPS target handoff from fixed-wing → multirotor
+- Multirotor executes **spiral search**, **YOLO-based human detection**
+- Autonomous payload deployment (thermal blanket)
+- Ground-level interaction via onboard microphone & speaker
+
+**Focus:** Autonomy • Endurance • Mission Logic • Human-Centered SAR
+
+---
+
+### 🔹 Autonomous Mobile Robot (Erasmus+)
+- Blind exploration using **IR distance sensors**
+- Online mapping with **YDLiDAR-based SLAM**
+- Goal-based navigation via **ROS move_base**
+- PID-controlled low-level motor actuation
+- Successfully navigated complex maze environments
+
+🏆 **1st Place – Final Competition**
+
+---
+
+### 🔹 Competitive UAV Development – TEKNOFEST
+- Member of competitive UAV teams
+- Experience with **real-world constraints, testing, and iteration**
+- Focus on autonomous behavior, safety, and mission reliability
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynelerenkinali&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynelerenkinali&layout=compact&theme=dracula" height="150"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zeynelerenk%C4%B1nal%C4%B1/)
+- 📺 [YouTube – Project Demos](https://www.youtube.com/@zeynelerenkinali)
+- 📧 zeynelerenkinali@gmail.com
+
+---
+
+> ⚡ *“Autonomy is not a feature — it is a system-level responsibility.”*
