@@ -1,8 +1,3 @@
-
----
-        ✈️  Zeynel Eren KINALI  ✈️
-        Autonomous Systems • UAVs • Robotics
-
 ## 🧠 About Me
 🧑‍💻 **Computer Engineering Student**  
 📍 Türkiye  
@@ -77,13 +72,6 @@ I actively develop and test systems both in **simulation (ROS/ROS2, Gazebo, SITL
   <img src="https://github-readme-stats.vercel.app/api?username=zeynelerenkinali&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynelerenkinali&layout=compact&theme=dracula" height="150"/>
 </div>
-
----
-
-## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/zeynelerenk%C4%B1nal%C4%B1/)
-- 📺 [YouTube – Project Demos](https://www.youtube.com/@zeynelerenkinali)
-- 📧 zeynelerenkinali@gmail.com
 
 ---
 
