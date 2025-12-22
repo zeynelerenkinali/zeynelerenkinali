@@ -39,8 +39,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **E-Learning Platform (DBMS)** | A comprehensive Learning Management System backend and frontend with complex database architecture. | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Embedded AI & UAV Systems** | Working on autonomous systems and simulation using NVIDIA Jetson Xavier NX. | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Embedded AI & UAV Systems** | Working on autonomous systems and simulation. | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ###
 
