@@ -4,7 +4,7 @@
 
 ### Autonomous Systems • UAV Software
 
-Computer Engineering Student focused on mission-oriented autonomous systems, UAV software, perception, and robotics engineering.
+Computer Engineering Student focused on mission-oriented autonomous systems and UAV software.
 
 </div>
 
