@@ -154,7 +154,7 @@ Worked on autonomous UAV systems under real operational and competition constrai
 
 I am particularly interested in autonomous systems that operate reliably in real-world environments under uncertainty, degraded communication, and dynamic mission conditions.
 
-My goal is to contribute to the development of mission-oriented autonomous platforms for defense, aerospace, and search & rescue applications.
+My goal is to contribute to the development of mission-oriented autonomous platforms for defense applications.
 
 ---
 
