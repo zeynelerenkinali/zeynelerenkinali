@@ -2,7 +2,7 @@
 
 # Zeynel Eren Kınalı
 
-### Autonomous Systems • UAV Software • Robotics
+### Autonomous Systems • UAV Software
 
 Computer Engineering Student focused on mission-oriented autonomous systems, UAV software, perception, and robotics engineering.
 
